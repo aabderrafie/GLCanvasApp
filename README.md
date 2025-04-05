@@ -28,7 +28,7 @@ A modern C++ application that demonstrates the integration of OpenGL rendering w
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/GLCanvasApp.git
+   git clone https://github.com/aabderrafie/GLCanvasApp.git
    cd GLCanvasApp
    ```
 
