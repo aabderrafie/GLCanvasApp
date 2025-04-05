@@ -1,4 +1,4 @@
-// MainApp.cpp
+
 #include "MainApp.h"
 
 bool MainApp::OnInit() {
